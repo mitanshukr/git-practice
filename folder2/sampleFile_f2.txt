@@ -1,0 +1,4 @@
+This is sample text for sampleFile inside folder2.
+Created in git cli using nano.
+
+Thanks for Checking :o
